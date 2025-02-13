@@ -2,7 +2,7 @@
 
 Amigo secreto é um site onde você pode sortear o nome dos seus amigos!.
 
-![Imagem](docs/screenshot.png)
+![](screenshot.png)
 
 
 
