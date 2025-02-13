@@ -1,17 +1,13 @@
 # introdução 
----
 
 Amigo secreto é um site onde você pode sortear o nome dos seus amigos!.
 
 O vídeo abaixo demonstra como utilizar.
 
-
-<video loop="loop" preload="auto" src="docs/video.mp4"></video>
-
+![](docs/video.mp4)
 
 
 # instalação
----
 
 1. Clone o projeto.
 
