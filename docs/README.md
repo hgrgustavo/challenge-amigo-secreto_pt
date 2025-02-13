@@ -2,9 +2,8 @@
 
 Amigo secreto é um site onde você pode sortear o nome dos seus amigos!.
 
-O vídeo abaixo demonstra como utilizar.
+![Imagem](docs/screenshot.png)
 
-![](docs/video.mp4)
 
 
 # instalação
@@ -19,7 +18,7 @@ Caso não tenha o git instalado, faça download do pacote .zip.
 
 Ele criará um servidor utilizando uma porta de rede (exemplo: 5500 ou 8080);
 
-O navegador, atrvés do protocolo HTTP, irá carregar a página e sincronizar qualquer mudança nos arquivos, através de instruções Javascript do live-server.
+O navegador, através do protocolo HTTP, irá carregar a página e sincronizar qualquer mudança nos arquivos, através de instruções Javascript do live-server.
 
 3. Abra o terminal no seu editor de código. 
 
