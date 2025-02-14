@@ -4,9 +4,11 @@ Amigo secreto é um site onde você pode sortear o nome dos seus amigos!.
 
 ![](screenshot.png)
 
+Acesse ![aqui](https://hgrgustavo.github.io/challenge-amigo-secreto_pt/)!
 
 
-# instalação
+
+# instalação e modificação 
 
 1. Clone o projeto.
 
@@ -18,7 +20,7 @@ Caso não tenha o git instalado, faça download do pacote .zip.
 
 Ele criará um servidor utilizando uma porta de rede (exemplo: 5500 ou 8080);
 
-O navegador, através do protocolo HTTP, irá carregar a página e sincronizar qualquer mudança nos arquivos, através de instruções Javascript do live-server.
+O navegador, através do protocolo HTTP e instruções do live-server, irá carregar a página e sincronizar qualquer mudança nos arquivos.
 
 3. Abra o terminal no seu editor de código. 
 
